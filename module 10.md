@@ -10,7 +10,7 @@ Algorithm:
  
 Program:
 
-```.py
+```.c
 struct Node{
     int data; 
     struct Node *next;
@@ -66,7 +66,7 @@ Algorithm:
  
 Program:
 
-```.py
+```.c
 struct Node{
     int data; 
     struct Node *next;
@@ -114,7 +114,7 @@ Algorithm:
  
 Program:
 
-```.py
+```.c
 struct Node
 {
     struct Node *prev;
@@ -157,7 +157,7 @@ Algorithm:
  
 Program:
 
-```.py
+```.c
 struct Node
 {
     struct Node *prev;
@@ -225,7 +225,7 @@ o	If the element is not found in any node, print a message indicating the elemen
 
 Program:
 
-```.py
+```.c
 
 struct Node
 {
