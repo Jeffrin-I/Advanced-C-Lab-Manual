@@ -16,7 +16,7 @@ Else
  
 Program:
 
-```.py
+```.c
 #include <stdio.h>
 
 struct eligible {
@@ -66,7 +66,7 @@ Algorithm:
  
 Program:
 
-```.py
+```.c
 #include<stdio.h>
 
 struct numbers{
@@ -123,7 +123,7 @@ Use scanf to input the file name into the name array.
  
 Program:
 
-```.py
+```.c
 #include <stdio.h>
 int main(){
     FILE *file;
@@ -179,7 +179,7 @@ Use scanf to input the file name into the name array and the number of strings i
  
 Program:
 
-```.py
+```.c
 #include <stdio.h> 
 
 int main(){
@@ -246,7 +246,7 @@ Algorithm:
 
 Program:
 
-```.py
+```.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
